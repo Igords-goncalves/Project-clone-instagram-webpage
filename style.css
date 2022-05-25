@@ -33,6 +33,8 @@ body {
 .instagram-phone img {
     height: 47.5rem;
 }
+
+
 .instagram-continue {
     display: flex;
     align-items: center;
@@ -78,6 +80,10 @@ body {
     border: none;
 }
 
+.instagram-login:hover {
+    background-color: #68bcf5 ;
+}
+
 .instagram-logout {
     color: #0095f6;
     margin-top: 0.8rem;
@@ -100,6 +106,7 @@ body {
     padding: 0.1rem 0;
     margin-bottom: 3%;
     margin-top: 3%;
+    color: #222222;
 }
 .download {
     display: flex;
